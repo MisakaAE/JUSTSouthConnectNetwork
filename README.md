@@ -1,4 +1,4 @@
-# JUSTSouthConnectNetwork
+# 江科大南校区校园网一键连接
 江苏科技大学南校区继续教育学院校园网一键连接脚本Python Windows本地使用可部署软路由
 
 
